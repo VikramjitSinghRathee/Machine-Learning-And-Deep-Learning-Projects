@@ -2,6 +2,8 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+Info: Utilized Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. Decision Tree Regressor was used to train on the housing dataset. Furthermore, grid search technique was also implemented to tune the performance of the regressor by finding optimal parameter values. The optimized model was then be used to estimate the best selling price for your client homes.
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
