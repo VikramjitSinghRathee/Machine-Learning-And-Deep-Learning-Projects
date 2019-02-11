@@ -1,6 +1,6 @@
 The project deals with accurate estimation of the taxi fare given pickup/dropoff latitude and longitude, number of passengers, pickup date and time.
 
-#NY_taxi_feature_Cleaning_Engineering_Scaling.ipynb
+##NY_taxi_feature_Cleaning_Engineering_Scaling.ipynb##
 
 The training and testing data was obtained from Kaggle (https://www.kaggle.com/c/new-york-city-taxi-fare-prediction). The data was preprocessed and scaled using sklearn library. 
 
