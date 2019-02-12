@@ -6,4 +6,4 @@ Resnet-50,
 CNN from scratch,
 VGG-16
 
-Also implemented Transfer learning with pre-trained CNN architecture (Resnet-50). For detecting human face OpenCV and for training Neural Network Keras with Tensorflow backend was utilized respectively.
+Also implemented Transfer learning with pre-trained CNN architecture (Resnet-50). For detecting human face OpenCV utilized and for training Neural Network Keras with Tensorflow backend was used.
