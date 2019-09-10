@@ -1,6 +1,3 @@
-# Udacity-Machine-Learning-Engineer-Nanodegree
-This repository contains all the machine learning projects completed during this program (2018)
-
 ## Short Description of the projects
 
 ### Deep Learning/Dog Breed Classifier_CNN
